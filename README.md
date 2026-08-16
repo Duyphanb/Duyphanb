@@ -15,9 +15,12 @@ Interested in REST APIs, security, relational databases, asynchronous systems, C
 
 ## Tech Stack
 
-**Backend:** Java • Spring Boot • Spring Security • Spring Data JPA • REST APIs
-**Data & Messaging:** PostgreSQL • Microsoft SQL Server • Redis • RabbitMQ
-**DevOps:** Docker • Docker Compose • GitHub Actions • Microsoft Azure
+**Backend:** Java • Spring Boot • Spring Security • Spring Data JPA • REST APIs<br>
+
+**Data & Messaging:** PostgreSQL • Microsoft SQL Server • Redis • RabbitMQ<br>
+
+**DevOps:** Docker • Docker Compose • GitHub Actions • Microsoft Azure<br>
+
 **Tools & Other:** Postman • OpenAPI • LangChain4j • Gemini • FFmpeg • MinIO
 
 ## Featured Projects
